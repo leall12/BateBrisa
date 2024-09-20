@@ -4,6 +4,8 @@
 <p>O projeto <b>“BateBrisa”</b> visa ajudar as pessoas que frequentam o litoral de São Paulo a terem uma melhor experiencia, com informações necessárias que ajudam na mobilidade do usuário, encontrando lugares, como  farmácias, mercados e restaurantes.
 </p><br><br>
 
+<h2>Link do vídeo BateBrisa! Antigo x Novo: https://youtu.be/R4oIbIFz07c</h2>
+
 <H2>Wiki do Projeto</H2>
 <br><p>Descrição do Projeto:</p>
 https://github.com/gabiheckmann/projetoPAM/wiki/Descri%C3%A7%C3%A3o-do-Projeto<br>
